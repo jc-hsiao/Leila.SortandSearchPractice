@@ -5,7 +5,6 @@ import org.junit.Test;
 
 public class FindPrimeTest {
 
-
     @Test
     public void test1() {
         FindPrime fp = new FindPrime();

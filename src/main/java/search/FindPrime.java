@@ -19,6 +19,7 @@ public class FindPrime {
         return a.stream()
                 .mapToInt(Integer::intValue)
                 .toArray();
+//        return a.toArray(new Integer[0]);
     }
 
     public boolean isPrime(int num){
