@@ -2,9 +2,6 @@ package other;
 
 import org.junit.Assert;
 import org.junit.Test;
-import search.FindSubstrings;
-
-import java.util.Arrays;
 
 public class FibonacciTest {
     @Test
